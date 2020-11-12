@@ -1,0 +1,19 @@
+% sensor position in meter
+% sensor number MUST BE 3 ~ 7
+%
+% x, y
+
+% sensor 1
+3000, 2000
+
+% sensor 2
+-3000, 4000
+
+% sensor 3
+-4000, -4000
+
+% sensor 4
+4000, -5000
+
+% sensor 5
+317, -51

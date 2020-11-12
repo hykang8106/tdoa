@@ -8,10 +8,13 @@ If you do not want the legend to automatically update, set the AutoUpdate proper
 +++++++++++++++++++
 
 batch_simulate_tdoa_sensor_fixed.m
+
 plot_tdoa_result_sensor_fixed.m
 
 batch_simulate_tdoa_target_fixed.m
+
 plot_tdoa_result_target_fixed.m
 
 batch_simulate_tdoa_bw_corr_snr.m
-plot_tdoa_result_bw_corr_snr.m# tdoa
+
+plot_tdoa_result_bw_corr_snr.m

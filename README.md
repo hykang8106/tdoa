@@ -3,8 +3,10 @@ simulate_tdoa_sensor_fixed.m
 simulate_tdoa_target_fixed.m
 
 +++++++++++++++++++
+
 Starting in R2017a, the legend automatically updates when you add or remove data series from the axes. 
 If you do not want the legend to automatically update, set the AutoUpdate property of the legend to 'off'.
+
 +++++++++++++++++++
 
 batch_simulate_tdoa_sensor_fixed.m
